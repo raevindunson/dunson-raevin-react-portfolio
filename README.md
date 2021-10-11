@@ -1,3 +1,11 @@
+# The React Portfolio of Raevin Dunson
+
+## About this Application
+Welcome to my React Portfolio! Check out the website at http://raevindunson.github.io/dunson-raevin-react-portfolio
+
+## Notes
+This application was created with React (as described below). This project was based on the Module 20 coursework from the George Washington University Coding Bootcamp.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
