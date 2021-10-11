@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dunson-raevin-react-portfolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/dunson-raevin-react-portfolio/static/js/main.f8e1afca.chunk.js",
+    "main.js.map": "/dunson-raevin-react-portfolio/static/js/main.f8e1afca.chunk.js.map",
+    "runtime-main.js": "/dunson-raevin-react-portfolio/static/js/runtime-main.0e95dd7e.js",
+    "runtime-main.js.map": "/dunson-raevin-react-portfolio/static/js/runtime-main.0e95dd7e.js.map",
+    "static/js/2.6fbbec23.chunk.js": "/dunson-raevin-react-portfolio/static/js/2.6fbbec23.chunk.js",
+    "static/js/2.6fbbec23.chunk.js.map": "/dunson-raevin-react-portfolio/static/js/2.6fbbec23.chunk.js.map",
+    "static/js/3.fdb1fbef.chunk.js": "/dunson-raevin-react-portfolio/static/js/3.fdb1fbef.chunk.js",
+    "static/js/3.fdb1fbef.chunk.js.map": "/dunson-raevin-react-portfolio/static/js/3.fdb1fbef.chunk.js.map",
+    "index.html": "/dunson-raevin-react-portfolio/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/dunson-raevin-react-portfolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6fbbec23.chunk.js.LICENSE.txt": "/dunson-raevin-react-portfolio/static/js/2.6fbbec23.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dunson-raevin-react-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e95dd7e.js",
+    "static/js/2.6fbbec23.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f8e1afca.chunk.js"
+  ]
+}
