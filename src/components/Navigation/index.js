@@ -36,3 +36,5 @@ function Nav(props) {
 }
 
 export default Nav;
+
+// HELPED FROM MODULE 20 PHOTO PORT COURSEWORK FROM GW CODING BOOTCAMP
