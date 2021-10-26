@@ -1,6 +1,6 @@
 import React from 'react';
 import coverImage from '../../assets/cover/cover-image.jpg';
-function About() {
+function Contact() {
   return (
     <section className="my-5">
       <h2 id="about">Contact Me</h2>
@@ -16,4 +16,6 @@ function About() {
   );
 }
 
-export default About;
+export default Contact;
+
+// HELPED FROM MODULE 20 PHOTO PORT COURSEWORK FROM GW CODING BOOTCAMP
